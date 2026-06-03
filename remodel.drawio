@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="2Ei7WXRB8zRWnQdxWP_-">
-    <mxGraphModel dx="2754" dy="2069" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2410" dy="1680" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -124,7 +124,7 @@
         <mxCell id="gJAD5dA8SqptaOQvNV3d-58" parent="1" style="swimlane;whiteSpace=wrap;html=1;startSize=23;fontSize=16;" value="砖工" vertex="1">
           <mxGeometry height="130" width="302" x="1510" y="970" as="geometry" />
         </mxCell>
-        <mxCell id="gJAD5dA8SqptaOQvNV3d-59" parent="gJAD5dA8SqptaOQvNV3d-58" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" value="补砖" vertex="1">
+        <mxCell id="gJAD5dA8SqptaOQvNV3d-59" parent="gJAD5dA8SqptaOQvNV3d-58" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" value="补砖" vertex="1">
           <mxGeometry height="60" width="120" x="169" y="50" as="geometry" />
         </mxCell>
         <mxCell id="gJAD5dA8SqptaOQvNV3d-60" edge="1" parent="gJAD5dA8SqptaOQvNV3d-58" source="gJAD5dA8SqptaOQvNV3d-61" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=16;startSize=8;endSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="gJAD5dA8SqptaOQvNV3d-59">
@@ -152,7 +152,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gJAD5dA8SqptaOQvNV3d-66" parent="1" style="swimlane;whiteSpace=wrap;html=1;fontSize=16;" value="木工" vertex="1">
-          <mxGeometry height="360" width="360" x="1050" y="1360" as="geometry" />
+          <mxGeometry height="360" width="360" x="1050" y="1350" as="geometry" />
         </mxCell>
         <mxCell id="gJAD5dA8SqptaOQvNV3d-67" parent="gJAD5dA8SqptaOQvNV3d-66" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" value="做餐边基底" vertex="1">
           <mxGeometry height="60" width="120" x="211" y="139" as="geometry" />
@@ -224,7 +224,7 @@
         <mxCell id="gJAD5dA8SqptaOQvNV3d-90" edge="1" parent="gJAD5dA8SqptaOQvNV3d-89" source="gJAD5dA8SqptaOQvNV3d-91" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;startSize=8;endSize=8;" target="gJAD5dA8SqptaOQvNV3d-94">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gJAD5dA8SqptaOQvNV3d-91" parent="gJAD5dA8SqptaOQvNV3d-89" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" value="室内实木门生产" vertex="1">
+        <mxCell id="gJAD5dA8SqptaOQvNV3d-91" parent="gJAD5dA8SqptaOQvNV3d-89" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" value="室内实木门生产" vertex="1">
           <mxGeometry height="60" width="120" x="170.5" y="60" as="geometry" />
         </mxCell>
         <mxCell id="gJAD5dA8SqptaOQvNV3d-92" edge="1" parent="gJAD5dA8SqptaOQvNV3d-89" source="gJAD5dA8SqptaOQvNV3d-93" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;startSize=8;endSize=8;" target="gJAD5dA8SqptaOQvNV3d-91">
