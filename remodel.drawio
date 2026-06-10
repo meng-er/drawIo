@@ -43,7 +43,7 @@
         <mxCell id="gJAD5dA8SqptaOQvNV3d-22" edge="1" parent="gJAD5dA8SqptaOQvNV3d-21" source="gJAD5dA8SqptaOQvNV3d-23" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;startSize=8;endSize=8;" target="gJAD5dA8SqptaOQvNV3d-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gJAD5dA8SqptaOQvNV3d-23" parent="gJAD5dA8SqptaOQvNV3d-21" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" value="全屋定制生产" vertex="1">
+        <mxCell id="gJAD5dA8SqptaOQvNV3d-23" parent="gJAD5dA8SqptaOQvNV3d-21" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" value="全屋定制生产" vertex="1">
           <mxGeometry height="60" width="120" x="170.5" y="60" as="geometry" />
         </mxCell>
         <mxCell id="gJAD5dA8SqptaOQvNV3d-24" edge="1" parent="gJAD5dA8SqptaOQvNV3d-21" source="gJAD5dA8SqptaOQvNV3d-25" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;startSize=8;endSize=8;" target="gJAD5dA8SqptaOQvNV3d-23">
